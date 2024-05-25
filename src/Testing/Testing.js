@@ -4,7 +4,8 @@ import React from 'react'
 export default function Testing() {
   return (
     <View>
-      <Text>Testing</Text>
+      <Text>Tejas is an good developer</Text>
+      <Text>Fatk pori cha nad </Text>
     </View>
   )
 }
